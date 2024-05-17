@@ -1,0 +1,8 @@
+.first-div{
+    display: flex;
+    border: solid red;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
